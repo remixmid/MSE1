@@ -213,4 +213,4 @@ $\approx 114.68$ minutes
 
 ### Exercise 6
 
-Find a function $f(x)$ that is defined exactly for $\mathbb{R}_{>0} \setminus \{1\}$ (all positive numbers except 1).
+Find a function $f(x)$ that is defined exactly for $\mathbb{R}_{>0} \setminus \{1\}$ (all positive numbers except 1, no more, no less).

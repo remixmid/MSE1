@@ -210,3 +210,7 @@ c. After how many minutes will there be 100000 spores?
 $\approx 114.68$ minutes
 
 </details> <br>
+
+### Exercise 6
+
+Find a function $f(x)$ that is defined exactly for $\mathbb{R}_{>0} \setminus \{1\}$ (all positive numbers except 1).

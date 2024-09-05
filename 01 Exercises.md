@@ -92,7 +92,7 @@ b. Find the speed necessary to increase the mass of a particle to three times it
 <details> <br>
   <summary> </summary>
 
-$v=0.943 c$
+$v=\frac{\sqrt{8}}{3}c\approx0.943 c$
 
 </details>
 

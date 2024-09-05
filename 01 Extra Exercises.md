@@ -185,7 +185,7 @@ $f^{-1}(x)=\frac{\log_5\left(\frac{x+1}{3}\right)}{2}$
 A mold colony starts with 1500 spores at time $t=0$.
 The colony grows continously, with the total number of spores tripling every 30 minutes due to the reproduction of both the original spores and the new spores produced.
 
-a. Find a functional expression for the number of spores at time $t$ (measured in minutes) that accounts for continuous growth.
+a. Find a functional expression for the number of spores at time $t$ (measured in minutes) that accounts for continuous growth (hint: $e$).
 
 <details>
   <br>
@@ -195,7 +195,19 @@ $f(t)=1500 \cdot e^\left({\frac{\ln(3)}{30} t}\right)$
 
 </details> 
 <br>
-b. Find the number of spores after 90 minutes.
+
+b. Simplify $f(t)$ from above.
+
+<details>
+  <br>
+  <summary> </summary>
+  
+$f(t)=1500 \cdot 3^\left({\frac{t}{30}}\right)$
+
+</details> 
+<br>
+
+c. Find the number of spores after 90 minutes.
 
 <details>
   <br>
@@ -204,7 +216,7 @@ $f(90) = 40500$
 
 </details>
 <br>
-c. After how many minutes will there be 100000 spores?
+d. After how many minutes will there be 100000 spores?
 
 <details> <br> <summary> </summary>
 $\approx 114.68$ minutes

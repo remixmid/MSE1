@@ -183,23 +183,23 @@ $425$
 Solve the “crossbins” below. The clues are in hexadecimal, and the answers should be in binary.  
 **Note**: If your number is too short, add zeros in front!
 
-<img src="crossbin1.png" alt="Crossbin 1" width="400"/>
+<img src="https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/crossbin1.png" alt="Crossbin 1" width="400"/>
 
 <details> <br>
   <summary> </summary>
 
-<img src="crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
+<img src="https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/crossbin1sol-1.jpg" alt="Crossbin 1" width="400"/>
 
 </details>
 
 <br>
 
-<img src="crossbin2.png" alt="Crossbin 2" width="350"/>
+<img src="https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/crossbin2.png" alt="Crossbin 2" width="350"/>
 
 <details> <br>
   <summary> </summary>
 
-<img src="crossbin2sol-1.jpg" alt="Crossbin 2" width="350"/>
+<img src="https://github.com/RBrooksDK/MSE1/blob/main/03_Numeral_systems/crossbin2sol-1.jpg" alt="Crossbin 2" width="350"/>
 
 </details> 
 

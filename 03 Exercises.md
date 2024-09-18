@@ -83,7 +83,7 @@ If $n = pq$, where $p$ and $q$ are prime, then $\varphi(n) = (p-1)(q-1)$?
 
 Convert the following binary numbers into decimal numbers.
 
-d. $110$
+a. $110_2$
 <details>
 
 <br>

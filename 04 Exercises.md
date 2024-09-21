@@ -209,7 +209,25 @@ $1$
 
 More simplification: https://www.boolean-algebra.com/quiz/
 
-### Exercise 5: Interpreting Circuits
+### Exercise 5: Problem
+
+Let $A$ be 1 if you exceed the speed limit, 0 if not.
+
+Let $B$ be 1 if the police sees you, 0 if not.
+
+Let $C$ be 1 if your car is faster than the police car, 0 if not.
+
+a. Create a function $F$ that returns 1 if you get a speeding ticket, 0 if you do not.
+<details>
+<br>
+<summary> </summary>
+$F(A,B,C) = A \cdot B \cdot \overline{C}$
+
+$F(A,B,C) = A \cdot B \cdot 1$ if you are not into car chases.
+</details>
+<br>
+
+### Exercise 6: Interpreting Circuits
 
 Write the boolean expression for
 
@@ -229,7 +247,7 @@ b. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/circuit4.png">
 </details>
 <br>
 
-### Exercise 6: Constructing Circuits
+### Exercise 7: Constructing Circuits
 
 Draw the circuits for
 

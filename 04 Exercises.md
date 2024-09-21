@@ -13,15 +13,7 @@ $255$
 </details>
 <br>
 
-b. What is the hexadecimal value for an opacity of $0.5$?
-<details>
-<br>
-<summary> </summary>
-$\approx 79$ or $80$
-</details>
-<br>
-
-c. What is the cardinality (or the order) of the set of all possible RGB colors?
+b. What is the cardinality (or the order) of the set of all possible RGB colors?
 <details>
 <br>
 <summary> </summary>
@@ -29,7 +21,7 @@ $16^{6} = 16 777 216$
 </details>
 <br>
 
-d. What is the cardinality (or the order) of the set of all possible RGBA colors, if all colors with an alpha of $0$ are considered the same?
+c. What is the cardinality (or the order) of the set of all possible RGBA colors, if all colors with an alpha of $0$ are considered the same?
 <details>
 <br>
 <summary> </summary>
@@ -37,11 +29,19 @@ $16^{6} \cdot (16^2-1) + 1 = 16 777 216 \cdot 255 + 1 = 4 278 190 081$
 </details>
 <br>
 
-e. Express an opacity level of $0.8$ in binary.
+d. Express an opacity level of $0.8$ in binary.
 <details>
 <br>
 <summary> </summary>
 $255 \cdot 0.8 = 204_{10} = 11001100_2$
+</details>
+<br>
+
+e. What is the hexadecimal value for an opacity of $0.5$?
+<details>
+<br>
+<summary> </summary>
+$\approx 79$ or $80$
 </details>
 <br>
 

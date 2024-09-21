@@ -221,7 +221,7 @@ a. Determine $f(111010)$.
 
 <br>
 
-b. The order (usually refered to as "cardinality") of a set is the number of elements in a set. For instance the order of {1, 5, 7, 19, 27, 39} is 6. Determine the order of the set $S$.
+b. The order (cardinality) of a set is the number of elements in a set. For instance the order of {1, 5, 7, 19, 27, 39} is 6. Determine the order of the set $S$.
 
 <details> <br>
   <summary> </summary>

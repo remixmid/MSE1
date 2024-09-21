@@ -84,57 +84,57 @@ $0$
 ### Exercise 3: Boolean Functions
 Construct the truth table for
 
-a. $F(x) = x \cdot \overline{x} + (x + \overline{x})$
+a. $F(x) = x + (x \cdot \overline{x})$
 
-| $x$ | $\overline{x}$ | $x \cdot \overline{x}$ | $x + \overline{x}$ | $F(x)$ |
-|---|---|---|---|---|
-| &nbsp; |   |   |   |   |
-| &nbsp; |   |   |   |   |
+| $x$ | $\overline{x}$ | $(x \cdot \overline{x})$ | $F(x) = x + (x \cdot \overline{x})$ |
+|:-:|:------------------:|:--------------------------:|:---------------------------------------:|
+|  |         &nbsp;          |                         |                                     |
+|  |         &nbsp;          |                          |                                     |
 
 <details>
 <br>
 <summary> </summary>
 
-| $x$ | $\overline{x}$ | $x \cdot \overline{x}$ | $x + \overline{x}$ | $F(x)$ |
-|---|---|---|---|---|
-| 0 | 1 | 0 | 1 | 0+1=1 |
-| 1 | 0 | 0 | 1 | 0+1=1 |
+| $x$ | $\overline{x}$ | $(x \cdot \overline{x})$ | $F(x) = x + (x \cdot \overline{x})$ |
+|:-:|:------------------:|:--------------------------:|:---------------------------------------:|
+| 0 |         1          |             0              |                   0                    |
+| 1 |         0          |             0              |                   1                    |
 
 </details>
 <br>
 
-b. ![$G(x, y) = \overline{x} \cdot \overline{y} + \overline{x \cdot y}$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(2).svg)
+b. $G(x,y) = \overline{x} \cdot (\overline{x} + \overline{y})$
 
 <details>
 <br>
 <summary> </summary>
 
-| $x$ | $y$ | $\overline{x}$ | $\overline{y}$ | $\overline{x} \cdot \overline{y}$ | ![$\overline{x \cdot y}$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(3).svg) | $G(x, y)$ |
-|---|---|---|---|---|---|---|
-| 0 | 0 | 1 | 1 | 1 | 1 | 1+1=1 |
-| 0 | 1 | 1 | 0 | 0 | 1 | 0+1=1 |
-| 1 | 0 | 0 | 1 | 0 | 1 | 0+1=1 |
-| 1 | 1 | 0 | 0 | 0 | 0 | 0+0=0 |
+| $x$ | $y$ | $\overline{x}$ | $\overline{y}$ | $(\overline{x} + \overline{y})$ | $G(x,y)=\overline{x} \cdot (\overline{x} + \overline{y})$ |
+|:-:|:-:|:------------------:|:------------------:|:--------------------------------:|:------------------------------------------------------------:|
+| 0 | 0 |         1          |         1          |               1                |                              1                               |
+| 0 | 1 |         1          |         0          |               1                |                              1                               |
+| 1 | 0 |         0          |         1          |               1                |                              0                               |
+| 1 | 1 |         0          |         0          |               0                |                              0                               |
 
 </details>
 <br>
 
-c. $H(x, y, z) = \overline{x} \cdot y + \overline{z}$
+c. $H(x, y, z) = (x \cdot \overline{y}) + \overline{z}$
 
 <details>
 <br>
 <summary> </summary>
 
-| $x$ | $y$ | $z$ | $\overline{x}$ | $\overline{x} \cdot y$ | $\overline{z}$ | $H(x, y, z)$ |
-|---|---|---|---|---|---|---|
-| 0 | 0 | 0 | 1 | 0 | 1 | 0+1=1 |
-| 0 | 0 | 1 | 1 | 0 | 0 | 0+0=0 |
-| 0 | 1 | 0 | 1 | 1 | 1 | 1+1=1 |
-| 0 | 1 | 1 | 1 | 1 | 0 | 1+0=1 |
-| 1 | 0 | 0 | 0 | 0 | 1 | 0+1=1 |
-| 1 | 0 | 1 | 0 | 0 | 0 | 0+0=0 |
-| 1 | 1 | 0 | 0 | 0 | 1 | 0+1=1 |
-| 1 | 1 | 1 | 0 | 0 | 0 | 0+0=0 |
+| $x$ | $y$ | $z$ | $\overline{y}$ | $\overline{z}$ | $(x \cdot \overline{y})$ | $H(x,y,z)=(x \cdot \overline{y}) + \overline{z}$ |
+|:-:|:-:|:-:|:------------------:|:------------------:|:--------------------------:|:--------------------------------------------------------:|
+| 0 | 0 | 0 |         1          |         1          |             0              |                            1                             |
+| 0 | 0 | 1 |         1          |         0          |             0              |                            0                             |
+| 0 | 1 | 0 |         0          |         1          |             0              |                            1                             |
+| 0 | 1 | 1 |         0          |         0          |             0              |                            0                             |
+| 1 | 0 | 0 |         1          |         1          |             1              |                            1                             |
+| 1 | 0 | 1 |         1          |         0          |             1              |                            1                             |
+| 1 | 1 | 0 |         0          |         1          |             0              |                            1                             |
+| 1 | 1 | 1 |         0          |         0          |             0              |                            0                             |
 
 </details>
 <br>

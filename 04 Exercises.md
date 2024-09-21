@@ -47,6 +47,29 @@ $255 \cdot 0.8 = 204_{10} = 11001100_2$
 
 ### Exercise 2: Boolean Calculation
 
-Calculate
+Calculate the following:
 
-a.
+a. $1 \cdot \overline{1}$  
+<details>
+<br>
+<summary> </summary>
+$0$
+</details>
+<br>
+
+b. $\overline{1} + \overline{0}$  
+<details>
+<br>
+<summary> </summary>
+$1$
+</details>
+<br>
+
+c. $\bar{1 + 0} \cdot 1$
+
+<details>
+<br>
+<summary> </summary>
+$0$
+</details>
+<br>

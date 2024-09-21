@@ -65,15 +65,7 @@ $1$
 </details>
 <br>
 
-c. ![$\overline{1 + 0} \cdot 1$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(4).svg)
-<details>
-<br>
-<summary> </summary>
-$0$
-</details>
-<br>
-
-d. $1 \cdot \overline{0}$  
+c. ![$\overline{0 \cdot (1 + 0)}$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(5).svg)
 <details>
 <br>
 <summary> </summary>
@@ -81,23 +73,7 @@ $1$
 </details>
 <br>
 
-e. $1 + \overline{1}$  
-<details>
-<br>
-<summary> </summary>
-$1$
-</details>
-<br>
-
-f. ![$\overline{0 \cdot (1 + 0)}$](https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(5).svg)
-<details>
-<br>
-<summary> </summary>
-$1$
-</details>
-<br>
-
-g. $\overline{1} + (0 \cdot 1)$  
+d. $\overline{1} + (0 \cdot 1)$  
 <details>
 <br>
 <summary> </summary>

@@ -41,7 +41,7 @@ e. What is the hexadecimal value for an opacity of $0.5$?
 <details>
 <br>
 <summary> </summary>
-$\approx 79$ or $80$
+$\approx 7F$ or $80$
 </details>
 <br>
 

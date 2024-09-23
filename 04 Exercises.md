@@ -155,7 +155,7 @@ b. <img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation%20(10).sv
 <details>
 <br>
 <summary> </summary>
-$\overline{xy}$
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/equation_0.svg">
 </details>
 <br>
 

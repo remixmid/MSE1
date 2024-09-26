@@ -317,6 +317,6 @@ c. Reduce the footprint of the access system by simplifying into a minimum of va
 <summary> </summary>
 $f(A,B,C,D,E,F)=ABD+\overline{A}\overline{B}+C\overline{A}\overline{F}+AEF\overline{C}+DEF\overline{B}+BE\overline{C}\overline{F}$
 
-(Note: this expression is equivalent to the function in (b) but the variables do not correspond to the variables in(a).)
+(Note: This function is equivalent to the function in (b) but the variables do not correspond to the variables in (a).)
 </details>
 <br>

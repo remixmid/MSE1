@@ -308,7 +308,7 @@ b. Create a single boolean function that accepts the above variables to precisel
 <details>
 <br>
 <summary> </summary>
-$f(A,B,C,D,E,F,G,H,I)=A+BK+C(I+J)+D+EI+FJK+GJ\overline{K}+HIJ\overline{K}$
+$f(A,B,C,D,E,F,G,H,I,J,K)=A+BK+C(I+J)+D+EI+FJK+GJ\overline{K}+HIJ\overline{K}$
 </details>
 <br>
 c. Reduce the footprint of the access system by simplifying into a minimum of variables and terms.
@@ -316,5 +316,7 @@ c. Reduce the footprint of the access system by simplifying into a minimum of va
 <br>
 <summary> </summary>
 $f(A,B,C,D,E,F)=ABD+\overline{A}\overline{B}+C\overline{A}\overline{F}+AEF\overline{C}+DEF\overline{B}+BE\overline{C}\overline{F}$
+
+(note: these variables do not correspond to the variables in a.)
 </details>
 <br>

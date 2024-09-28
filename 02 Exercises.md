@@ -357,7 +357,7 @@ e. $332 \mod 12$
 <details> <br>
   <summary> </summary>
 
-$8$
+$10$
 
 </details>
 
